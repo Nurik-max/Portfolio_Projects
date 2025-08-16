@@ -1,0 +1,4 @@
+Port file: /home/nurbolsun/.var/app/com.jetbrains.IntelliJ-IDEA-Community/cache/JetBrains/IdeaIC2025.1/.port
+Redirected: null
+Fallback: false
+Lock file: /home/nurbolsun/.var/app/com.jetbrains.IntelliJ-IDEA-Community/config/JetBrains/IdeaIC2025.1/.lock
